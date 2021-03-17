@@ -15,8 +15,8 @@ end
 
 Citizen.CreateThread(function()
     while true do
-		if coordsVisible then
-			Citizen.Wait(0)
+	if coordsVisible then
+	    Citizen.Wait(0)
             DisplayXYZ() -- loops this function while true
         else
             Citizen.Wait(500)
