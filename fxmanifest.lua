@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games 'gta5'
 
-author 'TRP
+author 'TRP'
 description 'Coords Display'
 
 client_scripts {
