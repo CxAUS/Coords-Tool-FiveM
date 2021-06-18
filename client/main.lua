@@ -1,5 +1,5 @@
 local coordsVisible = false
-
+print('this is running')
 function DrawTxt(text, x, y)
 	SetTextFont(0)
 	SetTextProportional(1)
